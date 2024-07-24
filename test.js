@@ -6,3 +6,5 @@ let myVar = "lol";
 
 
 // continue feature
+
+// I am working on branch2 developing another cool feature.
